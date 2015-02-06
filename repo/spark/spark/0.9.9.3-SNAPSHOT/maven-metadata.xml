@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>spark</groupId>
+  <artifactId>spark</artifactId>
+  <version>0.9.9.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110901.075332</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20110901075335</lastUpdated>
+  </versioning>
+</metadata>
